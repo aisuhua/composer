@@ -1,0 +1,6 @@
+{
+	"name": "aisuhua/composer",
+	"require": {
+		"monolog/monolog": "~1.2",
+	}
+}
